@@ -3,7 +3,7 @@ Collections of Bare-bones UI Components
 
 # Getting started
 Aim to use Javascript to create the components for futurproofing as libraries and frameworks go in and out of fashion.
-From JS it will be easy to convert the componet into ReactJS, Angular etc.
+From JS it will be easy to convert the components into ReactJS, Angular etc.
 
 ## Dependencies 
 
